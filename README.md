@@ -1,4 +1,4 @@
-## Análise de Dados, Aplicada ao Estudo de Diabetes Entre Indígenas Pima, Utilizando Python, SQL e Banco de Dados Relacional.
+# Análise de Dados Aplicada ao Estudo de Diabetes Entre Indígenas Pima
 
 ## Definição do Problema
 Os indígenas Pima são uma comunidade indígena que habitam na região desértica do sudoeste dos Estados Unidos da América e no norte do México. Nos EUA eles têm uma das taxas mais altas de diabetes do mundo, de acordo com Gohdes, Kaufman e Valway em "Diabetes in American Indians. An overview" (1993), mais de 50% da população acima de 35 anos são afetados pela doença. As causas da alta taxa de diabetes entre os indígenas Pima são complexas e envolvem uma combinação de fatores genéticos, mudanças nos hábitos alimentares e no modo de vida."
